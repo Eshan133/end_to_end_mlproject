@@ -1,6 +1,5 @@
 import sys  #manipulate various parts of Python runtime environment
-import logging
-
+from src.logger import logging
 
 # Common throughout the code, used in all the try-catch block 
 
